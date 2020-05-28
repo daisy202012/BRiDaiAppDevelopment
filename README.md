@@ -9,5 +9,6 @@ First Step: You need to download andriod studio on your laptop.
 Second Step: You have to link your andriod studio to github. 
 Here is a useful link to help you with this and only follow steps 1 and 2:https://medium.com/code-yoga/how-to-link-android-studio-with-github-312037a13b99
 
-Third Step: 
+Third Step: Create your first application.
+Here is a useful link to help ypu with this: https://developer.android.com/studio/run
  
