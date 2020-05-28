@@ -1,6 +1,6 @@
 # BRiDaiAppDevlopment
 
-Created by Daisy Sanchez and 
+Created by Daisy Sanchez and Brian Estrada
 
 We are going to use github to work on our very first andriod application.
 
