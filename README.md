@@ -1,5 +1,7 @@
 # BRiDaiAppDevlopment
 
+Created by Daisy Sanchez and 
+
 We are going to use github to work on our very first andriod application.
 
 First Step: You need to download andriod studio on your laptop.
